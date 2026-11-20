@@ -201,6 +201,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 
 ### Audio & Media
 - [bibigpt-skill](https://github.com/JimmyLv/bibigpt-skill) - AI-powered video, audio & podcast summarization
+- [speak-up](https://github.com/yoondahoon/speak-up) - Reads Claude Code (and Codex) replies aloud with free OS voices, no API key. Auto-detects 48 languages and picks a native voice; press any key to stop.
 
 ### Design UX
 - [brand-guardian](./plugins/brand-guardian)
